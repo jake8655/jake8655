@@ -10,7 +10,7 @@
     </a>
     <a href="https://github.com/jake8655">
       <img src="https://img.shields.io/github/followers/jake8655?label=Follow&logo=github&style=for-the-badge" alt="Github Badge" />
-    </a
-
+    </a>
   </div>
+
 </div>
