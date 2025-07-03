@@ -1,6 +1,6 @@
 # Dominik Tóth
 
-Ambitious high school student and aspiring full‑stack web developer
+Ambitious high school student and aspiring full‑stack web developer <br />
 with a passion for building scalable, secure, and reliable applications.
 
 Links:
